@@ -2,9 +2,13 @@
   "name": "pathtree",
   "displayName": "PathTree",
   "description": "Generates a tree-structured file path of the workspace.",
-  "version": "0.0.1", 
+  "version": "0.0.2", 
  "publisher": "SakibAlHasan",
  "icon": "media/icon.png",
+ "repository": {
+  "type": "git",
+  "url": "https://github.com/thesakibalhasan/PathTree"
+},
 
   "engines": {
     "vscode": "^1.96.0"
