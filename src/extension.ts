@@ -101,4 +101,3 @@ function generateTree(dirPath: string, indent: string, isRoot: boolean): string 
 
 export function deactivate() {}
 
-// 7RuVWqAl68W36HV5DkQ4Xlz5JTITomvFVmEEdrdzmLDkxkllXi7uJQQJ99BBACAAAAAAAAAAAAAGAZDOe88e
